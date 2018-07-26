@@ -9,7 +9,7 @@ https://disneyworld.disney.go.com/special-offers/enchanted-escape-room/
 
 Get Ready to Play Big and Save Up to 25% on Rooms at Select Disney Resort Hotels
 Select nights from August 2, 2018 to September 7, 2018
-Book through  September 7, 2018
+Book through  October 7, 2018
 Offer Type: Room
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
@@ -26,19 +26,19 @@ Stays most Sunday through Thursday nights from June 11 through August 30, 2018
 Book through  August 1, 2018
 Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/incredible-summer-room/
-
-An Incredible Summer Awaits –  Save Up to 20% on Rooms at Select Disney Resort Hotels
-Stays most nights June 11 through August 30, 2018
-Book through  August 1, 2018
-Offer Type: Room
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/kids-dine-free/
 
 Introducing an Incredibly Delicious Kid-Size Package Offer
 Valid for arrivals most nights from May 28 through August 30, 2018
 Book through  August 1, 2018
 Room, Ticket and Dining Plan Package
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/incredible-summer-room/
+
+An Incredible Summer Awaits –  Save Up to 20% on Rooms at Select Disney Resort Hotels
+Stays most nights June 11 through August 30, 2018
+Book through  August 1, 2018
+Offer Type: Room
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/ultimate-fall-magic-package/
 
@@ -54,20 +54,6 @@ Stays most nights from June 11 through August 30, 2018
 Book through  August 30, 2018
 Offer Type: Room
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/enchanted-escape-package/
-
-Embark on an Enchanted Escape Together with a 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney Resort Hotels
-Stays most Sunday through Thursday nights, August 12 through October 4, 2018
-Book through  September 7, 2018
-Offer Type: Room and Ticket Package
---------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/kid-size-enchanted-escape/
-
-Big Fun Awaits with a Kid-Size, 3-Night/2-Day Room and Ticket Package for a Family of 3 at a Disney’s All-Star Resort Hotel
-Select nights from August 2, 2018 to October 7, 2018
-Book through  September 7, 2018
-Offer Type: Room and Ticket Package
---------------------------------------------------------------------------------
 /visa-card/?trackcode=617Y01&mobtrackcode=6LLM01&offer=Save200
 
 Earn a $200 statement credit with a new Disney® Premier Visa® Card
@@ -75,12 +61,26 @@ Earn a $200 statement credit with a new Disney® Premier Visa® Card
    
 
 --------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/enchanted-escape-package/
+
+Embark on an Enchanted Escape Together with a 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney Resort Hotels
+Stays most Sunday through Thursday nights, August 12 through October 1, 2018
+Book through  October 7, 2018
+Offer Type: Room and Ticket Package
+--------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/magical-holidays-room/
 
 Save Up to 20% on Rooms at Select Disney Resort Hotels and Celebrate Fall and Holiday Excitement with Us!
 Stays most Sunday through Thursday nights October 8 through November 8 and most nights November 11 through December 24, 2018
 Book through  October 7, 2018
 Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/kid-size-enchanted-escape/
+
+Big Fun Awaits with a Kid-Size, 3-Night/2-Day Room and Ticket Package for a Family of 3 at a Disney’s All-Star Resort Hotel
+Stays most nights August 12 through October 2, 2018
+Book through  October 7, 2018
+Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/passholder-vacation-room/
 
