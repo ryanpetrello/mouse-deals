@@ -26,19 +26,19 @@ Earn a $200 statement credit with a new Disney® Premier Visa® Card
    
 
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/enchanted-escape-package/
-
-Embark on an Enchanted Escape Together with a 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney Resort Hotels
-Stays most Sunday through Thursday nights, August 12 through October 1, 2018
-Book through  October 7, 2018
-Offer Type: Room and Ticket Package
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/magical-holidays-room/
 
 Save Up to 20% on Rooms at Select Disney Resort Hotels and Celebrate Fall and Holiday Excitement with Us!
 Stays most Sunday through Thursday nights October 8 through November 8 and most nights November 11 through December 24, 2018
 Book through  October 7, 2018
 Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/enchanted-escape-package/
+
+Embark on an Enchanted Escape Together with a 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney Resort Hotels
+Stays most Sunday through Thursday nights, August 12 through October 1, 2018
+Book through  October 7, 2018
+Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/kid-size-enchanted-escape/
 
@@ -75,13 +75,6 @@ Valid for stays most nights from January 1, 2018 through December 19, 2018. Offe
 Book through  December 20, 2018
 Offer Type: Room
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/kids-holiday-stay/
-
-Discover a Kid-Size, 3-Night/2-Day Magical Holidays Vacation Package for a Family of 3 at select Disney’s All-Star Resort Hotels
-Stays most Sunday through Thursday nights November 11 through November 15 and November 24 through December 13, 2018
-Book through  December 24, 2018
-Offer Type: Room + Ticket Package
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/family-holiday-stay/
 
 Celebrate the Joy of the Holidays Together with 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney’s All-Star Resort Hotels
@@ -89,10 +82,24 @@ Stays most Sunday through Thursday nights November 11 through November 15 and No
 Book through  December 24, 2018
 Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/kids-holiday-stay/
+
+Discover a Kid-Size, 3-Night/2-Day Magical Holidays Vacation Package for a Family of 3 at select Disney’s All-Star Resort Hotels
+Stays most Sunday through Thursday nights November 11 through November 15 and November 24 through December 13, 2018
+Book through  December 24, 2018
+Offer Type: Room + Ticket Package
+--------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/passholder-room-only/
 
 Passholders: Stay with Us During the Most Magical Time of Year and Delight in Special Rates
 Stays most nights from October 8 through December 25, 2018
 Book through  December 25, 2018
+Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/disneyworld-passholder-offer/
+
+Walt Disney World Passholder Winter Offer: Save 30% on Stays of 3 or More Nights at Aulani Resort – Plus, Get $50 Resort Credit Per Night!
+Stays from January 6 through March 22, 2019
+Purchase through  February 13, 2019
 Offer Type: Room
 --------------------------------------------------------------------------------
