@@ -19,19 +19,19 @@ Take advantage of this offer sooner than later as there’s a 3-day waiting peri
 
 Offer Type: Advance Purchase Discount
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
-
-New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
-Restrictions apply.
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
 
 Shop for Authentic Disney Theme Park Merchandise and Get Free Ground Shipping on All Orders of $75+
 Choose from thousands of Walt Disney World products online―or through the Shop Disney Parks app.
 
 Offer Type: Free Shipping
+--------------------------------------------------------------------------------
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
+
+New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
+Restrictions apply.
+
+
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/ultimate-christmastime/
 
@@ -108,6 +108,13 @@ https://disneyworld.disney.go.com/special-offers/passholder-stay-rooms/
 Passholders: Spring into 2019 with Special Rates at Select Disney Resort Hotels
 Stays most nights January 1 through April 27, 2019
 Book through  April 27, 2019
+Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/aulani-hawaii-rooms/
+
+Walt Disney World Passholder Spring Offer: Save Up to 30% at Aulani Resort – Plus, Get a Resort Credit!
+Stays from March 22 through June 7, 2019
+Purchase through  May 8, 2019
 Offer Type: Room
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2019/
