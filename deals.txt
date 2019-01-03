@@ -1,10 +1,3 @@
-https://disneyworld.disney.go.com/special-offers/stay-dine-package/
-
-Play, Stay, Dine and Save in the Middle of the Magic with a Vacation-Ready Package
-For arrivals most nights January 1 through March 9, 2019
-Book through  January 2, 2019
-Offer Type: Room, Ticket and Dining Plan Package
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/resort-hotel-stay-dining-package/
 
 Savor a FREE, Delicious Deal 
@@ -12,18 +5,18 @@ For arrivals most nights from July 5 through September 30, 2019
 Book through  February 10, 2019
 Offer Type: Room, Ticket and Dining Plan Package
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/holiday-stay/
-
-Give the Gift of a Magical Stay – Book Early & Save Up to 25% on Rooms at Select Disney Resort Hotels
-Stays most nights January 1 through April 27, 2019
-Book through  January 2, 2019
-Offer Type: Room
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/sun-fun-room/
 
 This Spring and Summer, Save Up to 30% on Rooms at Select Disney Resort Hotels 
 Stays most nights April 28 through September 30, 2019
 Book through  March 24, 2019
+Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/holiday-stay/
+
+New Year, New Magical Experiences – Save Up to 20% on Rooms at Select Disney Resort Hotels
+Stays most nights January 3 through April 27, 2019
+Book through  April 27, 2019
 Offer Type: Room
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/memory-maker/
@@ -33,13 +26,6 @@ Take advantage of this offer sooner than later as there’s a 3-day waiting peri
 
 Offer Type: Advance Purchase Discount
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
-
-New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
-Restrictions apply.
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
 
 Shop for Authentic Disney Theme Park Merchandise and Get Free Ground Shipping on All Orders of $75+
@@ -47,19 +33,12 @@ Choose from thousands of Walt Disney World products online―or through the Shop
 
 Offer Type: Free Shipping
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/kid-sized-gift-magic-package/
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
 
-Brighten Up Your Winter with a Kid-Size, 3-Night/2-Day Room and Ticket Package for a Family of 3 at a Disney’s All-Star Resort Hotel
-Stays most Sunday through Thursday nights January 6 through February 13, 2019
-Book through  January 2, 2019
-Offer Type: Room + Ticket Package
---------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/fun-sun-package/
+New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
+Restrictions apply.
 
-Create Lasting Memories Together with a with 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney’s All-Star Resort Hotels
-Stays most nights January 2 through February 14, February 24 through March 7 and March 24 through April 5, 2019
-Book through  January 2, 2019
-Offer Type: Room and Ticket Package
+
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/disneyworld-passholder-offer/
 
@@ -81,6 +60,20 @@ Passholders: Spring into 2019 with Special Rates at Select Disney Resort Hotels
 Stays most nights January 1 through April 27, 2019
 Book through  April 27, 2019
 Offer Type: Room
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/fun-sun-package/
+
+Create Lasting Memories Together with a with 4-Night/4-Day Room and Ticket Package for a Family of 4 at Select Disney’s All-Star Resort Hotels
+Stays most nights January 3 through April 27, 2019
+Book through  April 27, 2019
+Offer Type: Room and Ticket Package
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/kid-sized-gift-magic-package/
+
+Start the New Year with a Kid-Size, 3-Night/3-Night/2-Day Room and Ticket Package for a Family of 3 at a Disney’s All-Star Resort Hotel
+Stays most nights January 3 through April 27, 2019
+Book through  April 27, 2019
+Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/aulani-hawaii-rooms/
 
