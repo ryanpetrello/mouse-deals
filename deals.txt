@@ -26,19 +26,19 @@ https://disneyworld.disney.go.com/special-offers/4-parks-magic-tickets/
 
 Offer Type: Tickets
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
-
-New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
-Restrictions apply.
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
 
 Shop for Authentic Disney Theme Park Merchandise and Get Free Ground Shipping on All Orders of $75+
 Choose from thousands of Walt Disney World products online―or through the Shop Disney Parks app.
 
 Offer Type: Free Shipping
+--------------------------------------------------------------------------------
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
+
+New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
+Restrictions apply.
+
+
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/sun-fun-package/
 
@@ -54,16 +54,16 @@ Stays most nights January 1 through April 27, 2019
 Book through  April 27, 2019
 Offer Type: Room
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/kid-sized-gift-magic-package/
+https://disneyworld.disney.go.com/special-offers/fun-sun-package/
 
-Start the New Year with This Kid-Size, 3-Night/2-Day Room-and-Ticket Package!
+Create Lasting Memories as a Family with a 4-Night/4-Day Room-and-Ticket Package!
 Stays most nights January 3 through April 27, 2019
 Book through  April 27, 2019
 Offer Type: Room and Ticket Package
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/fun-sun-package/
+https://disneyworld.disney.go.com/special-offers/kid-sized-gift-magic-package/
 
-Create Lasting Memories as a Family with a 4-Night/4-Day Room-and-Ticket Package!
+Start the New Year with This Kid-Size, 3-Night/2-Day Room-and-Ticket Package!
 Stays most nights January 3 through April 27, 2019
 Book through  April 27, 2019
 Offer Type: Room and Ticket Package
@@ -80,13 +80,6 @@ https://disneyworld.disney.go.com/special-offers/passholder-sun-fun-room/
 Passholders: Save Up to 40% on Rooms at Select Disney Resort Hotels
 Stays most nights April 28 through June 30, 2019
 Book through  June 30, 2019
-Offer Type: Room
---------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/disneyworld-passholder-aulani-offer/
-
-Walt Disney World Passholder Fall Offer: Save up to 35% on Stays at Aulani Resort
-Stays from August 19 through December 21, 2019
-Purchase through  October 23, 2019
 Offer Type: Room
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2019/
