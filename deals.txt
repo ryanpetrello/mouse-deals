@@ -19,13 +19,6 @@ Stays most nights January 1 through April 25, 2020
 Book through  January 1, 2020
 Offer Type: Room
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
-
-New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
-Restrictions apply.
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/memory-maker/
 
 Snap Up Memory Maker in Advance and Save $30!
@@ -33,12 +26,12 @@ Take advantage of this offer sooner than later as there’s a 3-day waiting peri
 
 Offer Type: Advance Purchase Discount
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
 
-Shop for Authentic Disney Theme Park Merchandise and Get Free Ground Shipping on All Orders of $75+
-Choose from thousands of Walt Disney World products online―or through the Shop Disney Parks app.
+New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
+Restrictions apply.
 
-Offer Type: Free Shipping
+
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2020/
 
@@ -46,6 +39,13 @@ U.S. Military Members: Enjoy Specially Priced Theme Park Tickets in 2020
 Purchase now through December 15, 2020 for the Disney 4-Day Military Promotional Ticket, December 14, 2020 for the Disney 5-Day Military Promotional Ticket and December 13, 2020 for the 6-Day Military Promotional Ticket. Valid January 1, 2020 through December 18, 2020
 
 Offer Type: Ticket
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
+
+Shop for Authentic Disney Theme Park Merchandise and Get Free Ground Shipping on All Orders of $75+
+Choose from thousands of Walt Disney World products online―or through the Shop Disney Parks app.
+
+Offer Type: Free Shipping
 --------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/family-holidays-room-offer/
 
