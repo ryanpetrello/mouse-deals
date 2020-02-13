@@ -16,12 +16,12 @@ Offer Type: Room
 
 
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
+https://disneyworld.disney.go.com/memory-maker/
 
-New Disney® Premier Visa® Cardmembers Can Earn a $250 Statement Credit
-Restrictions apply.
+Snap Up Memory Maker in Advance and Save $30!
+Take advantage of this offer sooner than later as there’s a 3-day waiting period before your Memory Maker Window begins after initial purchase. Savings based on on-site purchase price.
 
-
+Offer Type: Advance Purchase Discount
 
 
 --------------------------------------------------------------------------------
@@ -34,12 +34,12 @@ Offer Type: Free Shipping
 
 
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/memory-maker/
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
 
-Snap Up Memory Maker in Advance and Save $30!
-Take advantage of this offer sooner than later as there’s a 3-day waiting period before your Memory Maker Window begins after initial purchase. Savings based on on-site purchase price.
+New Disney® Premier Visa® Cardmembers Can Earn a $250 Statement Credit
+Restrictions apply.
 
-Offer Type: Advance Purchase Discount
+
 
 
 --------------------------------------------------------------------------------
