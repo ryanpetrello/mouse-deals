@@ -25,15 +25,6 @@ Offer Type: Advance Purchase Discount
 
 
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
-
-New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
-Restrictions apply.
-
-
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/guest-services/shop-disney-parks/?int_cmp=WDW-SpecialOffer-GroundShip
 
 Enjoy Free Ground Shipping on Disney Parks Merchandise Orders of $75+
@@ -43,21 +34,21 @@ Offer Type: Free Shipping
 
 
 --------------------------------------------------------------------------------
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save250
+
+New Disney® Premier Visa® Cardmembers can earn a $250 statement credit
+Restrictions apply.
+
+
+
+
+--------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2020/
 
 U.S. Military Members: Enjoy Specially Priced Theme Park Tickets in 2020
 Purchase now through December 15, 2020 for the Disney 4-Day Military Promotional Ticket, December 14, 2020 for the Disney 5-Day Military Promotional Ticket and December 13, 2020 for the 6-Day Military Promotional Ticket. Valid January 1, 2020 through December 18, 2020
 
 Offer Type: Ticket
-
-
---------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/gift-of-magic-room-offer/
-
-Save Up to 20% On Rooms at Select Disney Resort Hotels Now Through Spring
-Stays most nights January 2 through April 25, 2020
-Book through  March 7, 2020
-Offer Type: Room
 
 
 --------------------------------------------------------------------------------
