@@ -1,0 +1,40 @@
+name: mousedeals
+
+on:
+  schedule:
+    - cron:  '0 11 * * *'  # daily ~7am est
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.7'
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: execute py script
+        run: python fetch.py
+
+      - name: commit files
+        run: |
+          git config --local user.email "ryan@ryanpetrello.com"
+          git config --local user.name "Ryan Petrello"
+          git add deals.txt
+          git commit -m "new deals"
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
