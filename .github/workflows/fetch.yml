@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "ryan@ryanpetrello.com"
           git config --local user.name "Ryan Petrello"
           git add deals.txt
-          git commit -m "new deals"
+          git commit -m "new deals" || exit 0
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
