@@ -2,7 +2,7 @@ name: mousedeals
 
 on:
   schedule:
-    - cron:  '0 11 * * *'  # daily ~7am est
+    - cron:  '*/6 * * * *'  # every 6 minutes
   workflow_dispatch:
 
 jobs:
