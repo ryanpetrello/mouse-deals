@@ -2,7 +2,7 @@ https://disneyworld.disney.go.com/special-offers/summer-offer-room/
 
 Save Up to 25% on Rooms at Select Disney Resort Hotels This Summer
 Stays most nights July 11, 2021 through September 29, 2021
-Book through  Now Booking
+specialOffers.offer.bookBy Now Booking
 Offer Type: Room
 
 
@@ -38,7 +38,7 @@ https://disneyworld.disney.go.com/special-offers/passholder-summer-offer/
 
 Passholders: Enjoy Summer Fun with Special Rates at Select Disney Resort Hotels
 Stays most nights August 8 through September 4, 2021; book June 30 through September 4, 2021
-Book through  September 4, 2021
+specialOffers.offer.bookBy September 4, 2021
 Offer Type: Room
 
 
@@ -47,7 +47,7 @@ https://disneyworld.disney.go.com/special-offers/military-hotel-rates-2021/
 
 U.S. Military Members: Take Advantage of Great Rates at Select Disney Resort Hotels in 2021
 Valid for stays most nights January 1, 2021 through December 17, 2021
-Book through  December 17, 2021
+specialOffers.offer.bookBy December 17, 2021
 Offer Type: Room
 
 
