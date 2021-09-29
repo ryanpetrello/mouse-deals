@@ -29,7 +29,7 @@ https://disneyworld.disney.go.com/special-offers/military-hotel-rates-2021/
 
 U.S. Military Members: Take Advantage of Great Rates at Select Disney Resort Hotels in 2021
 Valid for stays most nights January 1, 2021 through December 17, 2021
-Book through  December 17, 2021
+specialOffers.offer.bookBy December 17, 2021
 Offer Type: Room
 
 
@@ -38,7 +38,7 @@ https://disneyworld.disney.go.com/special-offers/passholder-december-room-offer/
 
 Annual Passholders: Save Up to 25% on Rooms at Select Disney Resort Hotels This Holiday Season
 Stays most nights December 12 through December 24, 2021
-Book through  Now Booking
+specialOffers.offer.bookBy Now Booking
 Offer Type: Room
 
 
