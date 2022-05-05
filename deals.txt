@@ -7,15 +7,6 @@ Stay in the magic and save at select Disney Resort hotels, for stays most nights
 
 
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
-
-New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
-Restrictions apply.
-
-
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2022/
 
 U.S. Military Members: Enjoy Specially Priced Theme Park Tickets
@@ -31,6 +22,15 @@ Enjoy Free Ground Shipping on Disney Parks Merchandise Orders of $75+
 Choose from thousands of Walt Disney World products online at shopDisney.
 
 Offer Type: Free Shipping
+
+
+--------------------------------------------------------------------------------
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
+
+New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
+Restrictions apply.
+
+
 
 
 --------------------------------------------------------------------------------
@@ -58,6 +58,15 @@ Disney+ Subscribers: Stay in the Magic and Save Up to 25% on Rooms at Select Dis
 Stays most nights July 8 through September 30, 2022
 Book through  this website or contact your travel advisor.
 Offer Type: Room
+
+
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/passholder-aulani-fall-room-offer/
+
+Fall Getaway at Aulani Resort! Walt Disney World Annual Passholders Can Save Up to 35% on Select Stays
+Select stays August 23 through November 18 and November 26 through December 22, 2022
+Book through  Now Booking
+Offer Type: Resort Room Only
 
 
 --------------------------------------------------------------------------------
