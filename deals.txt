@@ -7,15 +7,6 @@ Stay in the magic and save at select Disney Resort hotels, for stays most nights
 
 
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
-
-New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
-Restrictions apply.
-
-
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2022/
 
 U.S. Military Members: Enjoy Specially Priced Theme Park Tickets
@@ -31,6 +22,15 @@ Enjoy Free Ground Shipping on Disney Parks Merchandise Orders of $75+
 Choose from thousands of Walt Disney World products online at shopDisney.
 
 Offer Type: Free Shipping
+
+
+--------------------------------------------------------------------------------
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
+
+New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
+Restrictions apply.
+
+
 
 
 --------------------------------------------------------------------------------
@@ -66,6 +66,15 @@ https://disneyworld.disney.go.com/special-offers/military-hotel-rates-2022/
 US Military Members: Take Advantage of Great Rates at Select Disney Resort Hotels in 2022
 Valid for stays most nights January 1, 2022 through December 16, 2022
 Book through  December 16, 2022
+Offer Type: Room
+
+
+--------------------------------------------------------------------------------
+https://disneyworld.disney.go.com/special-offers/passholder-fall-holiday-2022-room-offer/
+
+Passholders: Save Up to 25% on Select Disney Resort Hotels This Holiday Season
+Stays most nights October 23 through December 25, 2022
+Book through  Now Booking
 Offer Type: Room
 
 
