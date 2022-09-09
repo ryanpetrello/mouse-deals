@@ -7,15 +7,6 @@ Stays most nights December 11 through December 25, 2022
 
 
 --------------------------------------------------------------------------------
-/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
-
-New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
-Restrictions apply.
-
-
-
-
---------------------------------------------------------------------------------
 https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2022/
 
 U.S. Military Members: Enjoy Specially Priced Theme Park Tickets
@@ -34,12 +25,12 @@ Offer Type: Free Shipping
 
 
 --------------------------------------------------------------------------------
-https://disneyworld.disney.go.com/special-offers/passholder-summer-2022-room-offer/
+/visa-card/?trackcode=617R01&mobtrackcode=6LLM01&offer=Save300
 
-Passholders: Stay in the Magic with Great Rates at Select Disney Resort Hotels This Summer
-Stay most nights July 8 through September 8, 2022
-Book through  Now Booking
-Offer Type: Room
+New Disney® Premier Visa® Cardmembers can earn a $300 statement credit
+Restrictions apply.
+
+
 
 
 --------------------------------------------------------------------------------
