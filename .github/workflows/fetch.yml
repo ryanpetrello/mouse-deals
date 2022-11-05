@@ -1,10 +1,5 @@
 name: mousedeals
 
-#on:
-#  schedule:
-#    - cron:  '*/6 * * * *'  # every 6 minutes
-#  workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
